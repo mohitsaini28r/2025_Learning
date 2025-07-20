@@ -249,7 +249,7 @@ Delete from students where id=3;
 Drop table students;
 ```
 
-## 📌 SQL Contraints
+## 📌📌 SQL Contraints
 
 
 
